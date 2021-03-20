@@ -4,7 +4,7 @@ I am an experienced Manual Tester and Front End Developer. To show my skills and
 
 <a href="https://8000-silver-haddock-6jaj42o2.ws-eu03.gitpod.io/index.html">Please click here to open my Website</a>
 # UX
-## The purpose of this website is to present the following values:
+ The purpose of this website is to present the following values:
 Introduce myself, so that the recruiter can become familiar.
 
 Show my detailed portfolio, by creating a simple and professional design, so that the recruiter can get impressed.
@@ -13,12 +13,12 @@ Make sure that there is an easy and quick way to reach the contact page.
 
 Create a resposive design, which works in different screen sizes and devices, due the fact that people use more mobile devices nowadays.
 # User Stories:
-### 1. I am a recruiter who is looking for an experienced Full stack Developer with a good experience,positive attitude and willingness to learn.
-### 2. My manager is immediately looking for a Manual Tester with some experience of Web Designing.
-### 3. I am looking for a very dedicated, experienced and hard working  Full Stack Developer for a new project. Candidate should have an eagerness to learn new things and work with the team mate.
+ 1. I am a recruiter who is looking for an experienced Full stack Developer with a good experience,positive attitude and willingness to learn.
+ 2. My manager is immediately looking for a Manual Tester with some experience of Web Designing.
+ 3. I am looking for a very dedicated, experienced and hard working  Full Stack Developer for a new project. Candidate should have an eagerness to learn new things and work with the team mate.
 # Design Process:
-### I began the design process by outlining the key features that I wanted in my website.  I decided of the four pages I would have on my website: 'Home', 'Resume' 'Website'and 'Contact'.
-### I have given the navigation bar in the bottom of the header section.
+ I began the design process by outlining the key features that I wanted in my website.  I decided of the four pages I would have on my website: 'Home', 'Resume' 'Website'and 'Contact'.
+ I have given the navigation bar in the bottom of the header section.
 # Wireframing my project on Balsamiq
 <a href="https://8000-silver-haddock-6jaj42o2.ws-eu03.gitpod.io/index.html">The Wireframe can be seen here:</a>
 
@@ -46,10 +46,10 @@ The background will change according to the viewport width change.
 <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">Media Query</a>
 ### I used this for the resposive design of the website.
 # Testing
-### Based on the above User stories the recruiter wants someone who has the experience and quality of Full Stack Development. In the website sufficient explanations of the skills and work done is given so that who ever sees  can easily understand and the link of the website shown also gives prominent example of the work done in the past.
-### I checked that each and every nav bar when clicked takes the user to the desired page.
-### I tested the links on the footer opens perfectly.
-### I tested that the Download button is working perfectly and my Resume can easily be downloaded.
+- Based on the above User stories the recruiter wants someone who has the experience and quality of Full Stack Development. In the website sufficient explanations of the skills and work done is given so that who ever sees  can easily understand and the link of the website shown also gives prominent example of the work done in the past.
+- I checked that each and every nav bar when clicked takes the user to the desired page.
+- I tested the links on the footer opens perfectly.
+- I tested that the Download button is working perfectly and my Resume can easily be downloaded.
 ### I tried checking on the social media links as well and it was opening as expected.
 ## Validating the HTML and CSS Code.
 ### <a href="https://validator.w3.org/">HTML</a>
