@@ -19,8 +19,7 @@ Create a resposive design, which works in different screen sizes and devices, du
 # Design Process:
  I began the design process by outlining the key features that I wanted in my website.  I decided of the four pages I would have on my website: 'Home', 'Resume' 'Website'and 'Contact'.
  I have given the navigation bar in the bottom of the header section.
-# Wireframing my project on Balsamiq
-<a href="https://8000-silver-haddock-6jaj42o2.ws-eu03.gitpod.io/index.html">The Wireframe can be seen here:</a>
+
 
 
 # Technologies Used:
@@ -50,12 +49,12 @@ The background will change according to the viewport width change.
 - I checked that each and every nav bar when clicked takes the user to the desired page.
 - I tested the links on the footer opens perfectly.
 - I tested that the Download button is working perfectly and my Resume can easily be downloaded.
-### I tried checking on the social media links as well and it was opening as expected.
+- I tried checking on the social media links as well and it was opening as expected.
 ## Validating the HTML and CSS Code.
 ### <a href="https://validator.w3.org/">HTML</a>
 ### <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">CSS</a>
 # Testing in different browsers
-## I manually tested the website on the following web browsers, checking that buttons, responsiveness and design worked as planned:
+ I manually tested the website on the following web browsers, checking that buttons, responsiveness and design worked as planned:
 ### Google Chrome
 ### Mozilla Firefox
 # Testing responsiveness
@@ -74,9 +73,10 @@ The background will change according to the viewport width change.
 ### In the 'Contact' page, there is a contact form where people can contact me if they like my portfolio and work with me.
 
 # Issues found
-### In the contact page the'Submit' button is not working and for that I think knowledge of dot-PHP is required which maybe later I will learn in the course and will be able to implement it.
-# Deployment to Heroku
-### This project is deployed and hosted on Heroku.
+- In the contact page the'Submit' button is not working and for that I think knowledge of dot-PHP is required which maybe later I will learn in the course and will be able to implement it.
+- I was not following the right way of 'commit' and it was noticed by my mentor. Instead of commiting on new terminal I used to commit of the terminal that I was working so most of it did'nt get pushed.
+# Deployment to GitHub
+### This project is deployed and hosted on GitHub.
 ### 
 ### 
 # Cloning
