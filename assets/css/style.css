@@ -1,8 +1,14 @@
-body {
-    background: #545b62;
+footer {
+    background: bisque;
+}
+header {
+    background: bisque;
 }
 
 /* header01 */
+nav.navbar.navbar-expand-sm {
+    float: right;
+}
 .logo {
     width: 40%;
     float: left;
@@ -10,7 +16,8 @@ body {
     background: burlywood;
 }
 .logoimage {
-    width: 225px;
+    width: 174px;
+    float: right;
 }
 .menu {
     width: 60%;
@@ -151,6 +158,10 @@ h2.h1-responsive.font-weight-bold.text-center.my-4 {
 .row.contact1 {
     padding-top: 22px;
 }
+.col-md-7.work {
+    padding-top: 45px;
+    padding-left: 339px;
+}
 /* sectionend */
 /* contact form  */
 input[type=text], select, textarea {
@@ -171,6 +182,7 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  margin-bottom: 4px;
 }
 
 input[type=submit]:hover {
@@ -183,7 +195,7 @@ input[type=submit]:hover {
     font-size: 23px;
 }
 a {
-    color: cornsilk;
+    color: #46412e;
 }
 /* footerend */
 
@@ -202,6 +214,16 @@ height: 335px;
 .menu{
     width:100%;
     height:275px;
+}
+.col-md-5.lgimage {
+    width: 30%;
+}
+
+.col-md-7.work {
+    padding-top: 0px;
+    padding-left: 0px;
+    width:70%;
+    float:left;
 }
 }
 @media (min-width: 768px){
@@ -225,6 +247,12 @@ height: 335px;
 .logo h3 {
     font-size: 15px;
 }
+.col-md-7.work {
+    padding-top: 61px;
+    padding-left: 54px;
+    width:70%;
+    float:left;
+}
 }
 @media (min-width: 1024px) {.logo {
     width: 40%;
@@ -247,6 +275,12 @@ height: 335px;
 }
 .logo h3 {
     font-size: 20px;
+}
+.col-md-7.work {
+    padding-top: 61px;
+    padding-left: 329px;
+    width:70%;
+    float:left;
 }
 }
 
