@@ -55,41 +55,40 @@ The background will change according to the viewport width change.
 ### <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">CSS</a>
 # Testing in different browsers
  I manually tested the website on the following web browsers, checking that buttons, responsiveness and design worked as planned:
-### Google Chrome
-### Mozilla Firefox
+## Google Chrome
+## Mozilla Firefox
 # Testing responsiveness
-### I manually tested the live project by doing the following:
+ I manually tested the live project by doing the following:
 
-### Using Google Developer Tools to view the project on devices with different screen sizes.
-### Asking for feedback from friends and family who opened and interacted with the project on their devices.
+ Using Google Developer Tools to view the project on devices with different screen sizes.
+ Asking for feedback from friends and family who opened and interacted with the project on their devices.
 
 
 # Features:
-### The project has 4 pages in total - Home, Resume, Projects and Contacts.
-### There is navigation bar on each page and the header and footer is consistent on each page. There is a picture image on the left-hand side of the page which is again consistent on all the pages.
-### In the 'Home' page About Me is written clearly. 
-### On the Resume page, its all about my skills, educational background, Professional background and References that would help the recruiter to verify about me if required.
-### In the'Projects page all my previous designed website links are shared.
-### In the 'Contact' page, there is a contact form where people can contact me if they like my portfolio and work with me.
+- The project has 4 pages in total - Home, Resume, Projects and Contacts.
+- There is navigation bar on each page and the header and footer is consistent on each page. There is a picture image on the left-hand side of the page which is again consistent on all the pages.
+- In the 'Home' page About Me is written clearly. 
+- On the Resume page, its all about my skills, educational background, Professional background and References that would help the recruiter to verify about me if required.
+- In the'Projects page all my previous designed website links are shared.
+- In the 'Contact' page, there is a contact form where people can contact me if they like my portfolio and work with me.
 
 # Issues found
 - In the contact page the'Submit' button is not working and for that I think knowledge of dot-PHP is required which maybe later I will learn in the course and will be able to implement it.
 - I was not following the right way of 'commit' and it was noticed by my mentor. Instead of commiting on new terminal I used to commit of the terminal that I was working so most of it did'nt get pushed.
 # Deployment to GitHub
 ### This project is deployed and hosted on GitHub.
-### 
-### 
-# Cloning
-### The code can be run locally through clone or download from the repository on GitHub.
-### You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
-### The Clone option provides a URL, which you can use on your CLI with git clone .
-### The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine. The files can then be uploaded to your IDE
+I followed the link <a href="https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site">GitHub.com </a>to publish my Website.
+# Cloning 
+- The code can be run locally through clone or download from the repository on GitHub.
+- You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+- The Clone option provides a URL, which you can use on your CLI with git clone .
+- The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine. The files can then be uploaded to your IDE
 
 
 
 # Acknowledgments
-### Thanks for my mentor, Excellence Ilesanm for guidence and excellent advices.
-### Thanks to all Code Institute staff.
-### Thanks to CI Slack Community for all the assistance and support.
-### Thanks for all the web development community on Internet.
-### Thanks to my friend and family for supporting and guiding me throughout the project.
+- Thanks for my mentor, Excellence Ilesanm for guidence and excellent advices.
+- Thanks to all Code Institute staff.
+- Thanks to CI Slack Community for all the assistance and support.
+- Thanks for all the web development community on Internet.
+- Thanks to my friend and family for supporting and guiding me throughout the project. 
