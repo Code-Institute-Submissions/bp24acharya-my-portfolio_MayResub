@@ -2,7 +2,7 @@
 
 I am an experienced Manual Tester and Front End Developer. To show my skills and experiences , nothing could have been better than building my own Website to showcase my Portfolio.
 
-<a href="https://8000-silver-haddock-6jaj42o2.ws-eu03.gitpod.io/index.html">Please click here to open my Website</a>
+<a href="https://8000-amber-swordtail-90obitq8.ws-eu03.gitpod.io/">Please click here to open my Website</a>
 # UX
  The purpose of this website is to present the following values:
 Introduce myself, so that the recruiter can become familiar.
@@ -10,6 +10,8 @@ Introduce myself, so that the recruiter can become familiar.
 Show my detailed portfolio, by creating a simple and professional design, so that the recruiter can get impressed.
 
 Make sure that there is an easy and quick way to reach the contact page.
+
+Showcase my skills in details to the recruiter.
 
 Create a resposive design, which works in different screen sizes and devices, due the fact that people use more mobile devices nowadays.
 # User Stories:
