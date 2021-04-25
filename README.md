@@ -21,6 +21,11 @@ Create a resposive design, which works in different screen sizes and devices, du
 # Design Process:
  I began the design process by outlining the key features that I wanted in my website.  I decided of the four pages I would have on my website: 'Home', 'Resume' 'Website'and 'Contact'.
  I have given the navigation bar in the bottom of the header section.
+ The 'Home' page describes me and in details and has my address and contacts.
+ The 'Resume' page includes my skills and the description of my previous work done.
+ The 'Website' page shows the links of my projects completed, which will help the recruiter to understand my level of understanding by seeing the quality of work done.
+ The 'Contact' page is a form where anyone can contact me in order to work with me or incase they want any projects to be completed.
+ The footer has the social media links that is also a way where recruiter and other professionals can be in my contact and get to see my certifications and experiences.
 
 
 
@@ -43,7 +48,7 @@ Create a resposive design, which works in different screen sizes and devices, du
 The background will change according to the viewport width change.
 
 <a href="https://www.canva.com/">Canva</a>
-### It helped me in designing the style guide.
+### It helped me in designing the style guide. This is a great tool and easy to use.
 <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">Media Query</a>
 ### I used this for the resposive design of the website.
 # Testing
@@ -51,7 +56,7 @@ The background will change according to the viewport width change.
 - I checked that each and every nav bar when clicked takes the user to the desired page.
 - I tested the links on the footer opens perfectly.
 - I tested that the Download button is working perfectly and my Resume can easily be downloaded.
-- I tried checking on the social media links as well and it was opening as expected.
+- I tried checking on the social media links as well and it was opening as expected.Each social media icon is opening on a different page.
 ## Validating the HTML and CSS Code.
 ### <a href="https://validator.w3.org/">HTML</a>
 ### <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">CSS</a>
