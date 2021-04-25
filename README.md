@@ -49,9 +49,12 @@ The background will change according to the viewport width change.
 # Testing
 - Based on the above User stories the recruiter wants someone who has the experience and quality of Full Stack Development. In the website sufficient explanations of the skills and work done is given so that who ever sees  can easily understand and the link of the website shown also gives prominent example of the work done in the past.
 - I checked that each and every nav bar when clicked takes the user to the desired page.
-- I tested the links on the footer opens perfectly.
+- I tested the links on the footer.
 - I tested that the Download button is working perfectly and my Resume can easily be downloaded.
 - I tried checking on the social media links as well and it was opening as expected.Each social media icon is opening on a different page.
+- Usability of this website has been tested by sharing it with family and recruiter friends. No issues arose during the tests and it was confirmed that the website was simple, engaging and user-friendly. They were able to find the information they were looking for and easily understand the purpose of the website.
+- Images were resized and compressed multiple times to improve the loading speed of the website.
+- Compatibility and responsiveness of the website was extensively tested across multiple browsers (Chrome, Safari, Microsoft Edge, Fire Fox) and on muliple screen size devices.
 ## Validating the HTML and CSS Code.
 ### <a href="https://validator.w3.org/">HTML</a>
 ### <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">CSS</a>
@@ -74,6 +77,9 @@ The background will change according to the viewport width change.
 - In the'Projects page all my previous designed website links are shared.
 - In the 'Contact' page, there is a contact form where people can contact me if they like my portfolio and work with me. Wheather its a small or big Projects, anyone can contact using the form and we can work together.
 - The footer has the social media links that is also a way where recruiter and other professionals can be in my contact and get to see my certifications and experiences.Download icon helps to download my resume in case the recruiters want it.
+- All navigation links change color on hover.
+
+
 
 # Issues found
 - In the contact page the'Submit' button is not working and for that I think knowledge of dot-PHP is required which maybe later I will learn in the course and will be able to implement it.
