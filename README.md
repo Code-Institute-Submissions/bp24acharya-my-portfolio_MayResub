@@ -21,12 +21,7 @@ Create a resposive design, which works in different screen sizes and devices, du
 # Design Process:
  I began the design process by outlining the key features that I wanted in my website.  I decided of the four pages I would have on my website: 'Home', 'Resume' 'Website'and 'Contact'.
  I have given the navigation bar in the bottom of the header section.
- The 'Home' page describes me and in details and has my address and contacts.
- The 'Resume' page includes my skills and the description of my previous work done.
- The 'Website' page shows the links of my projects completed, which will help the recruiter to understand my level of understanding by seeing the quality of work done.
- The 'Contact' page is a form where anyone can contact me in order to work with me or incase they want any projects to be completed.
- The footer has the social media links that is also a way where recruiter and other professionals can be in my contact and get to see my certifications and experiences.
-
+ The footer has the social media links and a resume download options aswell.
 
 
 # Technologies Used:
@@ -73,11 +68,12 @@ The background will change according to the viewport width change.
 
 # Features:
 - The project has 4 pages in total - Home, Resume, Projects and Contacts.
-- There is navigation bar on each page and the header and footer is consistent on each page. There is a picture image on the left-hand side of the page which is again consistent on all the pages.
-- In the 'Home' page About Me is written clearly. 
+- There is navigation bar on each page and the header and footer is consistent on each page. There is a picture image on the right-hand side of the page which is again consistent on all the pages.
+- In the 'Home' page About Me is written clearly. Anyone interested can contact me using the deatils given on the page.
 - On the Resume page, its all about my skills, educational background, Professional background and References that would help the recruiter to verify about me if required.
 - In the'Projects page all my previous designed website links are shared.
-- In the 'Contact' page, there is a contact form where people can contact me if they like my portfolio and work with me.
+- In the 'Contact' page, there is a contact form where people can contact me if they like my portfolio and work with me. Wheather its a small or big Projects, anyone can contact using the form and we can work together.
+- The footer has the social media links that is also a way where recruiter and other professionals can be in my contact and get to see my certifications and experiences.Download icon helps to download my resume in case the recruiters want it.
 
 # Issues found
 - In the contact page the'Submit' button is not working and for that I think knowledge of dot-PHP is required which maybe later I will learn in the course and will be able to implement it.
