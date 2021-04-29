@@ -259,10 +259,10 @@ footer {
     font-size: 23px;
 }
 
-a {
-    color: #46412e;
-}
 
+.downicons a {
+    color: black;
+}
 
 /* footerend */
 
@@ -352,4 +352,3 @@ a {
         float: left;
     }
     }
-.fontcolor:hover{background-color: red;}
